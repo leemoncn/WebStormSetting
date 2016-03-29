@@ -23,9 +23,7 @@
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="743d3d" />
-      </value>
+      <value />
     </option>
     <option name="BUILDOUT.KEY">
       <value>
@@ -642,6 +640,12 @@
       <value>
         <option name="FOREGROUND" value="66d9ef" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="53d1ed" />
+        <option name="BACKGROUND" value="272822" />
       </value>
     </option>
     <option name="GQL_ID">
