@@ -644,6 +644,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="53d1ed" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
     <option name="GQL_ID">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
