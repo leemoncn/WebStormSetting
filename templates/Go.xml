@@ -1,0 +1,12 @@
+<templateSet group="Go">
+  <template name="func" value="func ($RECEIVER$$TYPE_1$) $NAME$($PARAMS$) $TYPE_2$ {   &#10; $END$&#10;}" description="Method" toReformat="true" toShortenFQNames="true">
+    <variable name="RECEIVER" expression="" defaultValue="&quot;receiver&quot;" alwaysStopAt="true" />
+    <variable name="TYPE_1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="&quot;params&quot;" alwaysStopAt="true" />
+    <variable name="TYPE_2" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_FILE" value="true" />
+    </context>
+  </template>
+</templateSet>
