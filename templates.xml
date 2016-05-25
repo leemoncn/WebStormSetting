@@ -82,14 +82,6 @@
           <option name="groupName" value="GoHiddenTemplate" />
           <option name="key" value="add_return" />
         </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="GoHiddenTemplate" />
-          <option name="key" value="go_lang_test" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="GoHiddenTemplate" />
-          <option name="key" value="go_lang_benchmark" />
-        </TemplateKey>
       </list>
     </option>
   </component>
