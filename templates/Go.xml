@@ -5,11 +5,6 @@
     <variable name="NAME" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <variable name="PARAMS" expression="" defaultValue="&quot;params&quot;" alwaysStopAt="true" />
     <variable name="TYPE_2" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="GO" value="false" />
-      <option name="GO_FILE" value="true" />
-      <option name="GO_BLOCK" value="true" />
-      <option name="GO_TYPE" value="false" />
-    </context>
+    <context />
   </template>
 </templateSet>
